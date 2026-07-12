@@ -1,2 +1,2 @@
-# -EtsyCommandCentre
+# EtsyCommandCentre
 Etsy AI edit 
